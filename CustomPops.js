@@ -1,5 +1,4 @@
-var CustomPops = function () {
+var CustomPops = cups = function () {
 	
-
 
 };
